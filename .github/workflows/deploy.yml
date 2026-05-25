@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy to w7s
 
 on: push
 
